@@ -1,13 +1,12 @@
 # School-Museum
 
-Этот проект представляет собой сайт школьного музея МБОУ "Гимназия №1" города Биробиджана. Был создан, как школьный проект. Мой первый проект. Несмотря на очень большое число ошибок, рад, что взялся за него.
+This project is the website of the school museum Gymnasium № 1 in Birobidzhan, Russia. It was created as a school project. My first project. Despite the very large number of mistakes, I am glad that I took it up.
 
-## Технологии
+## Technologies
 
-- HTML, CSS, JavaScript для фронтенда.
+- HTML, CSS, JavaScript for the frontend.
 
+## Usage
 
-## Использование
-
-1. Откройте сайт [link](https://museum-gymnasium1bir.netlify.app/) в вашем браузере.
-2. На данный момент, предлагаю ознакомиться с главной страницей, Архив/Символика и атрибутика, Деятельность музея, О нас/Где мы находимся
+1. Open the website [link](https://museum-gymnasium1bir.netlify.app /) in your browser.
+2. At the moment, I suggest you familiarize yourself with the main page, the `Архив/Символика и атрибутика`, `Деятельность музея`, `О нас/Где мы находимся`
